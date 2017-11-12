@@ -4,10 +4,10 @@
 	"description": "Inspired by the One Dark Theme from Atom Editor",
 	"version": "1.0",
 	"author": "robert-m (https://github.com/robert-m)",
-	"homepage": "",
+	"homepage": "https://github.com/robert-m/brackets-funckions-theme",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/robert-m/brackets-funckions-theme.git"
 	},
 	"license": "MIT",
 	"engines": {
