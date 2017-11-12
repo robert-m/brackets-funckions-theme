@@ -1,0 +1,20 @@
+{
+	"title": "Funkcions (Brackets Dark Theme)",
+	"name": "funkcions-dark-theme",
+	"description": "Inspired by the One Dark Theme from Atom Editor",
+	"version": "1.0",
+	"author": "robert-m (https://github.com/robert-m)",
+	"homepage": "",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.1.0"
+	},
+	"theme": {
+		"file": "main.less",
+		"dark": true
+	}
+}
